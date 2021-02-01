@@ -9,7 +9,7 @@
 
 **Dzimšanas datums:** 2004. gads 4. janvāris
 
-![bilde](C:\Users\Vlad\Pictures\Programmesana Ma\Mans-CV\photo.png)
+![bilde1](C:/Users/Vlad/Pictures/Programmesana Ma/Mans-CV/photo.png)
 ## Izglītība 
 **2020.g. līdz šai dienai** PIKC Rīgas Valsts tehnikums programmēšanas tehniķis 1. kurss
 
@@ -19,7 +19,7 @@
 
 ## Sasniegumi
 **Zemgales reģiona Kompetenču attīstības centra uzstāšana ar savu ZPD**
-![bilde](C:\Users\Vlad\Pictures\Programmesana Ma\Mans-CV\photo1.jpg)
+![bilde2](C:/Users/Vlad/Pictures/Programmesana Ma/Mans-CV/photo1.jpg)
 
 ## Hobiji
 
