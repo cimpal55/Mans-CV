@@ -34,7 +34,9 @@
 * Angļu valodas olimpiadēs piedālīšāna
 2018.gada aprīlīs 
 
- 
+* Ausa no prezidenta par vidusskolas nobeigšanu ar vidējo atzīme 8.5 
+2020.gada maijs
+
 ## Hobiji, intereses
 Esmu atbildīgs un komandējošs cilvēks, gatavs strādāt un kontaktēties ar citiem cilvēkiem un darīt katru darbu, kas domāts man.
 
