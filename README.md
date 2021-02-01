@@ -1,4 +1,3 @@
-# CV
 ### **Vladislavs Šušpanovs** ###
 * **Adrese:** Latvija, Jelgava, Satiksmes iela 33-64, LV-3007
 
