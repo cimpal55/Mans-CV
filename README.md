@@ -8,7 +8,7 @@
 
 * **Dzimšanas datums:** 2004. gads 4. janvāris
 
-![bilde1](https://image.prntscr.com/image/5I2mueJXR4mjnmx8Eo_htw.png)
+![bilde1](https://image.prntscr.com/image/YWeRQtqLT2KwKWrikAYgqA.png)
 ## Izglītība 
 * 2020.g. līdz šai dienai PIKC Rīgas Valsts tehnikums programmēšanas tehniķis 1. kurss
 
@@ -25,9 +25,14 @@
 
 ## Sasniegumi
 * Zemgales reģiona Kompetenču attīstības centra uzstāšana ar savu ZPD
+2018.gada janvāris
 
 ![bilde2](https://image.prntscr.com/image/CSBxrdZkRRGcTAEE4t8LLA.png)
 
+* Angļu valodas olimpiadēs piedālīšāna
+2018.gada aprīlīs 
+
+ 
 ## Hobiji
 * Programmēšana 
 * Volejbols
