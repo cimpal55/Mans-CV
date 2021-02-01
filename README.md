@@ -8,7 +8,7 @@
 
 * **E-pasts:** <cimpals71@gmail.com>
 
-* **Dzimšanas datums:** 2004. gads 4. janvāris
+* **Dzimšanas datums:** 2004. gads 4. janvāris (17. gadi)
 
 ![bilde1](https://image.prntscr.com/image/YWeRQtqLT2KwKWrikAYgqA.png)
 ## Izglītība 
