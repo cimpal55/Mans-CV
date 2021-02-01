@@ -1,8 +1,5 @@
 # CV
-{
-### ***Vladislavs Šušpanovs*** ###
-}
-
+### **Vladislavs Šušpanovs** ###
 * **Adrese:** Latvija, Jelgava, Satiksmes iela 33-64, LV-3007
 
 * **Telefons:** +37120318705
@@ -18,6 +15,13 @@
 * 2015-2020.g. - Jelgavas 5. vidusskola
 
 * 2012-2015.g. - Jelgavas 6. vidusskola
+
+## Valodas prasmēs
+|    **Valoda**     |**Prasmēs līmenīs**|
+|------------------ |-------------------|
+|1. Latviešu valoda | Labas zināšānas   |
+|2. Angļu valoda    | Labas zināšānas   |
+|3. Krievu valoda   | Dzimtā valoda     |
 
 ## Sasniegumi
 * **Zemgales reģiona Kompetenču attīstības centra uzstāšana ar savu ZPD**
