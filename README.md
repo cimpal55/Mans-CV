@@ -24,18 +24,25 @@
 |3. Krievu valoda   | Dzimtā valoda     |
 
 ## Sasniegumi
-* **Zemgales reģiona Kompetenču attīstības centra uzstāšana ar savu ZPD**
+* Zemgales reģiona Kompetenču attīstības centra uzstāšana ar savu ZPD
 
 ![bilde2](https://image.prntscr.com/image/CSBxrdZkRRGcTAEE4t8LLA.png)
 
 ## Hobiji
-* Programmēšana
+* Programmēšana 
 * Volejbols
-* 
 
 ## Pieredze programmēšanā
-* Python pieredze no ieprēkšajam stundam Rīgas Valsts tehnikuma
+1. Python pieredze 
 
-* Pascal ABC pieredze no Jelgavas 5. vidusskola 
+    * no ieprēkšajam stundam Rīgas Valsts tehnikuma
 
-* C# pieredze no pašmācīšanās
+    * no pašmācīšanās
+
+2. Pascal ABC pieredze 
+
+    * no Jelgavas 5. vidusskola
+
+3. C# pieredze
+
+    * no pašmācīšanās
