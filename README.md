@@ -33,7 +33,11 @@
 2018.gada aprīlīs 
 
  
-## Hobiji
+## Hobiji, intereses
+Esmu atbildīgs un komandējošs cilvēks, gatavs strādāt un kontaktēties ar citiem cilvēkiem un darīt katru darbu, kas domāts man.
+
+Es varu izdalīt tikai divus savus hobijus:
+
 * Programmēšana 
 * Volejbols
 
