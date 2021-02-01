@@ -16,11 +16,11 @@
 * 2012-2015.g. - Jelgavas 6. vidusskola
 
 ## Valodas prasmēs
-|    **Valoda**     |**Prasmēs līmenīs**|
-|------------------ |-------------------|
-|1. Latviešu valoda | Labas zināšānas   |
-|2. Angļu valoda    | Labas zināšānas   |
-|3. Krievu valoda   | Dzimtā valoda     |
+|    **Valoda**     |**Runāju**|**Saprotu**|**Rakstu**|
+|------------------ |----------|-----------|----------|        
+|1. Latviešu valoda |   labi   |   labi    |  teicami |
+|2. Angļu valoda    |   labi   |   labi    |   labi   |
+|3. Krievu valoda   |  dzimtā  |  dzimtā   |  dzimtā  |
 
 ## Sasniegumi
 * Zemgales reģiona Kompetenču attīstības centra uzstāšana ar savu ZPD
