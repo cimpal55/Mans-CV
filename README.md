@@ -26,19 +26,13 @@
 |3. Krievu valoda   |  dzimtā  |  dzimtā   |  dzimtā  |
 
 ## Sasniegumi
-* Zemgales reģiona Kompetenču attīstības centra uzstāšana ar savu ZPD
+* 2018.gada janvāris - Zemgales reģiona Kompetenču attīstības centra uzstāšana ar savu ZPD
  
-    *2018.gada janvāris*
-
 ![bilde2](https://image.prntscr.com/image/CSBxrdZkRRGcTAEE4t8LLA.png)
 
-* Angļu valodas olimpiadēs piedālīšāna
+* 2018.gada aprīlīs - Angļu valodas olimpiadēs piedālīšāna
 
-    *2018.gada aprīlīs* 
-
-* Ausa no prezidenta par vidusskolas nobeigšanu ar vidējo atzīme 8.5 
-
-    *2020.gada maijs*
+* 2020.gada maijs - Ausa no prezidenta par vidusskolas nobeigšanu ar vidējo atzīme 8.5 
 
 ## Hobiji, intereses
 Esmu atbildīgs un komandējošs cilvēks, gatavs strādāt un kontaktēties ar citiem cilvēkiem un darīt katru darbu, kas domāts man.
